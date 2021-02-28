@@ -1,4 +1,5 @@
-# Dots_and_Boxes<br />
+<pre>
+# Dots_and_Boxes <br />
 This is a fun project<br />
 This project is based on glut<br />
 As i love to play dots and boxes, i just developed it on my own<br />
@@ -22,3 +23,4 @@ for ubuntu : <br />
     compile :  g++ x.cpp -o fx -lglut -lGLU -lGL<br />
     run : ./fx<br />
 <br />
+</pre>
