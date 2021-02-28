@@ -282,6 +282,7 @@ int main(int argc,char** argv)
 }
 
 /*
-to compile :  g++ x.cpp -o fx -lglut -lGLU -lGL
-to run : ./fx
+install Glut in ubuntu : sudo apt-get install freeglut3-dev
+compile :  g++ x.cpp -o fx -lglut -lGLU -lGL
+run : ./fx
 */
